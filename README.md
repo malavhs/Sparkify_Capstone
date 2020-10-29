@@ -18,8 +18,12 @@ This project is part of the Udacity Data Scientist Nanodegree. In this project, 
 
 3. File Descriptions:
 
-a. Sparkify.ipynb - This notebook contains code which performs various steps like Cleaning the data, pre processing as well as training the model on the "small" data set that we have been given. It also contains a lot of visualizations that help me understand the relationships between various features.
+a. **Sparkify.ipynb** - This notebook contains code which performs various steps like Cleaning the data, pre processing as well as training the model on the "small" data set that we have been given. It also contains a lot of visualizations that help me understand the relationships between various features.
 
-b. Sparkify_Large.ipynb - This notebook contains code which performs various steps like Cleaning the data, pre processing as well as training the model on the "Large" data set that we have been given and that is trained on AWS. It also contains a lot of visualizations that help me understand the relationships between various features.
+b. **Sparkify_Large.ipynb** - This notebook contains code which performs various steps like Cleaning the data, pre processing as well as training the model on the "Large" data set that we have been given and that is trained on AWS. It also contains a lot of visualizations that help me understand the relationships between various features.
 
-c. mini_sparkify_event_data.json - The json file for the "small" dataset.
+c. **mini_sparkify_event_data.json** - The json file for the "small" dataset.
+
+d. **Sparkify.html** - The html version of the notebook in (a)
+
+e. **Sparkify_Large.html** - The html version of the notebook in (b)
