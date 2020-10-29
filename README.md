@@ -1,5 +1,6 @@
 # Sparkify_Capstone
 
+# Medium article link: https://malavhirenshah.medium.com/training-a-spark-model-for-predicting-user-churn-4f275b5a571a
 1. Libraries 
 
 The libraries used in this project include:
@@ -20,7 +21,7 @@ This project is part of the Udacity Data Scientist Nanodegree. In this project, 
 
 a. **Sparkify.ipynb** - This notebook contains code which performs various steps like Cleaning the data, pre processing as well as training the model on the "small" data set that we have been given. It also contains a lot of visualizations that help me understand the relationships between various features.
 
-b. **Sparkify_Large.ipynb** - This notebook contains code which performs various steps like Cleaning the data, pre processing as well as training the model on the "Large" data set that we have been given and that is trained on AWS. It also contains a lot of visualizations that help me understand the relationships between various features.
+b. **Sparkify_Large.ipynb** - This notebook contains code which performs various steps like Cleaning the data, pre processing as well as training the model on the "Large" data set that we have been given and that is trained on IBM Watson using the instructions in the Capstone. It also contains a lot of visualizations that help me understand the relationships between various features.
 
 c. **mini_sparkify_event_data.json** - The json file for the "small" dataset (Given by Udacity -- not on here due to size restrictions)
 
