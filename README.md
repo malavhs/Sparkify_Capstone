@@ -17,7 +17,7 @@ The libraries used in this project include:
 * PysparkML
 Threading libs
 
-## 2. Project Motvation:
+## 2. Project Motivation:
 
 This project is part of the Udacity Data Scientist Nanodegree. In this project, we predict churn for users of a particular music streaming application. In general, we have a lot of user data from any application and we can use that to predict user patterns and this is one such example wherein we have a lot of data about their interaction with a music streaming application and this can then be used to predict which users churned and what caused them to churn etc. This project includes using SparkML to create a machine learning model to create new features from existing features and using that to predict churn of users of a music streaming application. In addition to this, we deploy the solution to the IBM cloud in order to use the entire data set, which is bigger in size in order to train the model. 
 
